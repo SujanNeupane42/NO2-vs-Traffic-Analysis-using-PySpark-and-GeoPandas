@@ -1,2 +1,4 @@
 earthaccess==0.14.0
 pyspark==3.5.5
+s3fs==2025.2.0
+pandas
