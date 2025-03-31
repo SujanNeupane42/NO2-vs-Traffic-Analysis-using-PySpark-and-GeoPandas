@@ -2,3 +2,11 @@ earthaccess==0.14.0
 pyspark==3.5.5
 s3fs==2025.2.0
 pandas
+xarray==2025.1.2
+requests==2.32.3
+numpy==2.32.3
+tqdm == 4.67.1
+netcdf4==1.7.2
+matplotlib==3.10.0
+cartopy==0.24.1
+joblib==1.4.2
